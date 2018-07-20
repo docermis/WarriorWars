@@ -2,7 +2,7 @@
 
 namespace WarriorWars
 {
-    class Program
+    class EntryPoint
     {
         static void Main(string[] args)
         {
